@@ -5,7 +5,6 @@ Coursework, assignments, fun toy circuits, etc.
 This repository uses [uv](https://docs.astral.sh/uv/) to manage the virtual environments and dependencies. To set up the environment, run:
 
 ```
-bash
 uv sync
 ```
 
